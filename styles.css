@@ -13,8 +13,8 @@ html {
 
 body {
   font-family: 'Press Start 2P', sans-serif;
-  color: #eee;
-  background-color: #222;
+  color: #060606;
+  background-color: #6c6976;
   /* background-color: #60b347; */
 }
 
@@ -27,7 +27,7 @@ header {
 
 main {
   height: 65vh;
-  color: #eee;
+  color: #000000;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -58,7 +58,7 @@ h1 {
 
 .number {
   background: #eee;
-  color: #333;
+  color: #121111;
   font-size: 6rem;
   width: 15rem;
   padding: 3rem 0rem;
